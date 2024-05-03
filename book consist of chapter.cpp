@@ -19,7 +19,7 @@ public:
     GT()
     {
         root = NULL;
-    }
+    }book cons
 };
 
 void GT::create_tree()
